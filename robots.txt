@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://achat-abonnes-tktk.com/sitemap.xml
